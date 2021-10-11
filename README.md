@@ -16,3 +16,7 @@ coding test
 
 # 2단계
 1. 모음사전_위클리챌린지 5주차 https://programmers.co.kr/learn/courses/30/lessons/84512 \
+
+2. 오픈채팅방_kakao_BLIND RECRUITMENT_2019 https://programmers.co.kr/learn/courses/30/lessons/42888 \
+
+
