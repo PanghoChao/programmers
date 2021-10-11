@@ -32,3 +32,23 @@ def solution(weights, head2head):
   
   
   #but test error
+  #because "//"
+'''
+﻿
+하루종일 에러 문제를 찾은 결과
+승률부분이 딱 떨어지지않고 무한(순환)소수가 되기에 보기에 깔끔하지않아
+소수점은 버림을 하였으나
+rank_dict[num].append((w_or_l.count('W')*100)// entir)
+생각해보니 제한 사항이
+weights의 길이는 2 이상 1,000 이하입니다.
+최대 전체 싸운횟수가 999까지 가능하니
+1승 998패 랑 9승 990패가 동일한 값이 나오게 된다.
+
+
+1승 998패 승률 0.1001% = 버림 > 0%
+
+9승 990패 승률 0.9009% = 버림 > 0%
+'''
+# 즉 승률을 버림하면 안댐. 
+#code modify
+rank_dict[num].append(w_or_l.count('W')/ entir)
