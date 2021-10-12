@@ -16,6 +16,10 @@ coding test
 
 6.완주하지 못한 선수 https://programmers.co.kr/learn/courses/30/lessons/42576\
 
+7.K번째수_정렬 https://programmers.co.kr/learn/courses/30/lessons/42748\
+
+
+
 
 # 2단계
 1. 모음사전_위클리챌린지 5주차 https://programmers.co.kr/learn/courses/30/lessons/84512 \
