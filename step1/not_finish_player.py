@@ -51,3 +51,18 @@ def solution(participant, completion):
   
  #success 
 # dict를 활용하여 결과물 도출
+
+# bonus  code 
+# 문제를 통과하고 다른사람이 풀이하는걸 보고 알게된 코드 
+# Counter 객체는 서로 연산이 가능하다!
+
+
+import collections
+
+
+def solution(participant, completion):
+    answer = collections.Counter(participant) - collections.Counter(completion)
+    return list(answer.keys())[0]
+
+
+
