@@ -4,7 +4,8 @@ coding test
 
 # 1단계 
 
-1. 음양더하기_월간코드챌린지_시즌2 https://programmers.co.kr/learn/courses/30/lessons/76501 \ 
+1. 음양더하기_월간코드챌린지_시즌2   
+  https://programmers.co.kr/learn/courses/30/lessons/76501 \ 
 
 2. 약수의 개수와 덧셈_월간코드챌린지_시즌2 https://programmers.co.kr/learn/courses/30/lessons/77884 \
 
