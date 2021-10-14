@@ -24,6 +24,12 @@ coding test
 
 7. K번째수_정렬    
   https://programmers.co.kr/learn/courses/30/lessons/42748\
+  
+8. 모의고사_완전탐색    
+  https://programmers.co.kr/learn/courses/30/lessons/42840
+
+9. 체육복_Greedy    
+  https://programmers.co.kr/learn/courses/30/lessons/42862
 
 
 
