@@ -35,8 +35,8 @@ coding test
   https://programmers.co.kr/learn/courses/30/lessons/1845
   
 11. 나머지가 1이 되는 수 찾기_월간코드챌린지   
-  https://programmers.co.kr/learn/courses/30/lessons/87389
-
+  https://programmers.co.kr/learn/courses/30/lessons/87389   
+  
 
 
 # 2단계
@@ -46,4 +46,6 @@ coding test
 2. 오픈채팅방_kakao_BLIND RECRUITMENT_2019    
   https://programmers.co.kr/learn/courses/30/lessons/42888
 
-
+3. 더 맵게_힙(Heap)
+  https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3   
+  
