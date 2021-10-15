@@ -46,6 +46,6 @@ coding test
 2. 오픈채팅방_kakao_BLIND RECRUITMENT_2019    
   https://programmers.co.kr/learn/courses/30/lessons/42888
 
-3. 더 맵게_힙(Heap)
+3. 더 맵게_힙(Heap)   
   https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3   
   
