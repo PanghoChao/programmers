@@ -31,6 +31,11 @@ coding test
 9. 체육복_Greedy    
   https://programmers.co.kr/learn/courses/30/lessons/42862
 
+10. 폰켓몬_찾아라 프로그래밍 마에스터    
+  https://programmers.co.kr/learn/courses/30/lessons/1845
+  
+11. 나머지가 1이 되는 수 찾기_월간코드챌린지   
+  https://programmers.co.kr/learn/courses/30/lessons/87389
 
 
 
