@@ -49,3 +49,11 @@ coding test
 3. 더 맵게_힙(Heap)   
   https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3   
   
+4. 위장_해시(hash)   
+  https://programmers.co.kr/learn/courses/30/lessons/42578   
+  
+5. 프린터_스택/큐   
+  https://programmers.co.kr/learn/courses/30/lessons/42587
+
+
+  
