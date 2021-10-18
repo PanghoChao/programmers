@@ -56,4 +56,10 @@ coding test
   https://programmers.co.kr/learn/courses/30/lessons/42587
 
 
-  
+
+# 3단계   
+1. 징검다리건너기   
+  https://blog.naver.com/sobrightlf/222539933373   
+
+2. 불량사용자   
+  https://blog.naver.com/sobrightlf/222540651582
