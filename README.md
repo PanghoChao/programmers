@@ -55,7 +55,14 @@ coding test
 5. 프린터_스택/큐   
   https://programmers.co.kr/learn/courses/30/lessons/42587
 
-
+6. 스킬트리_Summer/Winter Coding    
+  https://programmers.co.kr/learn/courses/30/lessons/49993#fn1    
+  
+  
+7. 캐시_2018 KAKAO BLIND RECRUITMENT   
+  https://programmers.co.kr/learn/courses/30/lessons/17680   
+  
+  
 
 # 3단계   
 1. 징검다리건너기   
