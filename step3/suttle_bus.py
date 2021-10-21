@@ -97,7 +97,7 @@ def solution(n, t, m, timetable):
     return answer
 
   
-  ## Interim check
+## Interim check
 print(solution(1,1,5,["08:00", "08:01", "08:02", "08:03"]))
 print(solution(2,10,2,["09:10", "09:09", "08:00"]))
 print(solution(2,1,2,["09:00", "09:00", "09:00", "09:00"]))
@@ -106,4 +106,52 @@ print(solution(1,1,1,["23:59"]))
 print(solution(10,60,45,["23:59","23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59", "23:59"]))
 
  
-  # Error
+# Error
+# to been a continueous error
+
+# Tomorrow
+# 코드를 싹다 지우고 다시 썼다. 
+# 조건문을 하나하나 따지면서 파악하면서 if-else문을 썻고 
+# if 문이 많을 경우 else 문을 최소화하려 노력하였다.
+
+ if n != 1:  #
+        for i in range(n):
+            add_t = t*i
+            last_t = start_t + add_t
+            shuttle_t.append(last_t)
+        
+        total_m = n * m
+    if n ==1:
+        shuttle_t.append(start_t)
+
+    answer = last_t  # 막차시간을 미리 대입해준다. 
+
+##################################################################
+    for time in timetable:
+        arrival = time.split(":")
+        arrival_m = int(arrival[0])* 60 + int(arrival[1]) # 분으로 정렬
+        if last_t >= arrival_m :
+            crew_set.append(arrival_m)
+#############################################################
+    
+    if len(crew_set) > 0:
+        crew_set.sort(reverse = True)
+        for t in shuttle_t:
+            k = m
+            while crew_set and k :   # 막차시간보다 빨리오는 크루가 없으면 종류하며
+                crew_t = crew_set.pop()
+                if total_m == 1:
+                    answer =crew_t - 1
+                    crew_set.clear()  # answer값이 나오면 크루를 없애줬다.
+                    break
+                if t >= crew_t:
+                    total_m -= 1
+                    k -=             
+                else:
+                    crew_set.append(crew_t)
+                    total_m -= k              #첫차시간 보다 늦게왔지만, 다음셔틀보다 빨리온경우를 빼준다.
+                    break
+
+
+
+# success 
