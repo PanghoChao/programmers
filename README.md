@@ -71,4 +71,11 @@ coding test
   https://blog.naver.com/sobrightlf/222539933373   
 
 2. 불량사용자   
-  https://blog.naver.com/sobrightlf/222540651582
+  https://blog.naver.com/sobrightlf/222540651582   
+  
+3. 셔틀버스_카카오 2018 블라인드 채용   
+  https://blog.naver.com/sobrightlf/222540841782   
+  
+4. N_Qeen   
+  https://blog.naver.com/sobrightlf/222543933427
+  
