@@ -64,6 +64,8 @@ coding test
 7. 캐시_2018 KAKAO BLIND RECRUITMENT   
   https://programmers.co.kr/learn/courses/30/lessons/17680   
   
+8. 짝지어 제거하기_2017 팁스타운   
+  https://programmers.co.kr/learn/courses/30/lessons/12973
   
 
 # 3단계   
