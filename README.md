@@ -66,6 +66,9 @@ coding test
   
 8. 짝지어 제거하기_2017 팁스타운   
   https://programmers.co.kr/learn/courses/30/lessons/12973
+
+9. 튜플_카카오   
+  https://programmers.co.kr/learn/courses/30/lessons/64065   
   
 
 # 3단계   
