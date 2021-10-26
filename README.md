@@ -70,6 +70,9 @@ coding test
 9. 튜플_카카오   
   https://programmers.co.kr/learn/courses/30/lessons/64065   
   
+10. 게임맵 최단거리   
+  https://programmers.co.kr/learn/courses/30/lessons/1844   
+  
 
 # 3단계   
 1. 징검다리건너기   
