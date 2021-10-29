@@ -2,8 +2,11 @@
 coding test 
 # 번외
 1. LFU 구현해보기   
-  https://blog.naver.com/sobrightlf/222541965858
-
+  https://blog.naver.com/sobrightlf/222541965858   
+  
+2. Permutations, Combination 알아보기   
+  https://blog.naver.com/sobrightlf/222552852461   
+  
 # 1단계 
 
 1. 음양더하기_월간코드챌린지_시즌2   
@@ -79,6 +82,10 @@ coding test
 12.피로도 던전_위클리챌린지_12주차   
   https://programmers.co.kr/learn/courses/30/lessons/87946   
   
+13.소수찾기_완전탐색   
+  https://programmers.co.kr/learn/courses/30/lessons/42839
+
+
 
 # 3단계   
 1. 징검다리건너기   
