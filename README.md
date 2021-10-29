@@ -79,10 +79,10 @@ coding test
 11. 행렬 테두리 회전하기_2021 Dev-Matching   
   https://programmers.co.kr/learn/courses/30/lessons/77485   
   
-12.피로도 던전_위클리챌린지_12주차   
+12. 피로도 던전_위클리챌린지_12주차   
   https://programmers.co.kr/learn/courses/30/lessons/87946   
   
-13.소수찾기_완전탐색   
+13. 소수찾기_완전탐색   
   https://programmers.co.kr/learn/courses/30/lessons/42839
 
 
