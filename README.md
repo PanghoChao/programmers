@@ -83,7 +83,10 @@ coding test
   https://programmers.co.kr/learn/courses/30/lessons/87946   
   
 13. 소수찾기_완전탐색   
-  https://programmers.co.kr/learn/courses/30/lessons/42839
+  https://programmers.co.kr/learn/courses/30/lessons/42839    
+  
+14. 카펫_완전탐색
+  https://programmers.co.kr/learn/courses/30/lessons/42842
 
 
 
