@@ -85,7 +85,7 @@ coding test
 13. 소수찾기_완전탐색   
   https://programmers.co.kr/learn/courses/30/lessons/42839    
   
-14. 카펫_완전탐색
+14. 카펫_완전탐색   
   https://programmers.co.kr/learn/courses/30/lessons/42842
 
 
