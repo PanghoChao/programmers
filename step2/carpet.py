@@ -1,5 +1,5 @@
 # 문제이해 
-
+https://blog.naver.com/sobrightlf/222554571209
 
 # code
 def solution(brown, yellow):
