@@ -88,6 +88,11 @@ coding test
 14. 카펫_완전탐색   
   https://programmers.co.kr/learn/courses/30/lessons/42842
 
+15. H-Index   
+  https://programmers.co.kr/learn/courses/30/lessons/42747   
+  
+16. n^2 배열 자르기
+  https://programmers.co.kr/learn/courses/30/lessons/87390   
 
 
 # 3단계   
