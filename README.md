@@ -114,6 +114,8 @@ coding test
 6. 최고의 집합   
   https://blog.naver.com/sobrightlf/222546470069   
   
+7. N으로 표현   
+  https://programmers.co.kr/learn/courses/30/lessons/42895   
  
 
   
