@@ -90,7 +90,7 @@ coding test
 15. H-Index   
   https://programmers.co.kr/learn/courses/30/lessons/42747   
   
-16. n^2 배열 자르기
+16. n^2 배열 자르기   
   https://programmers.co.kr/learn/courses/30/lessons/87390   
 
 17. 2개 이하로 다른 비트   
