@@ -94,6 +94,17 @@ coding test
 16. n^2 배열 자르기
   https://programmers.co.kr/learn/courses/30/lessons/87390   
 
+17. 2개 이하로 다른 비트   
+  https://programmers.co.kr/learn/courses/30/lessons/77885   
+
+18. 구명보트
+  https://programmers.co.kr/learn/courses/30/lessons/42885   
+
+
+
+
+
+
 
 # 3단계   
 1. 징검다리건너기   
