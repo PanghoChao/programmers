@@ -102,6 +102,8 @@ coding test
 19. 가장 큰 정사각형   
   https://programmers.co.kr/learn/courses/30/lessons/12905   
 
+20. 뉴스 클러스터링_2018 KAKAO BLIND RECRUITMENT   
+  https://programmers.co.kr/learn/courses/30/lessons/17677   
 
 
 # 3단계   
