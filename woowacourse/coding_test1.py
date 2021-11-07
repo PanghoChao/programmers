@@ -1,5 +1,7 @@
 #문제이해 
-
+https://blog.naver.com/sobrightlf/222560174142
+    
+    
 #code 1
 def solution(arr):
 
