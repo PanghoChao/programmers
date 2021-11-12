@@ -1,4 +1,4 @@
-package org.opentutorails.javatutorials.array;
+package programmers.step1.java;
 
 import java.util.Arrays;
 
