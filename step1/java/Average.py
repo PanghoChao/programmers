@@ -1,3 +1,5 @@
+package programmers.step1.java;
+
 public class Average {
 	public static void main(String[] args) {
 		int[] arr1 = {1,2,3,4};
